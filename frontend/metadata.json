@@ -1,0 +1,7 @@
+{
+  "name": "SecureGate - Frontend V.1.0.3",
+  "description": "Sistem Buku Tamu Digital Mandiri (LocalStorage) untuk PT Kaltim Kariangau Terminal.\n\nDONE API\nLOGIN\nLOGOUT\nDASHBOARD (GET)\n\nDESAIN\nCRUD PEGAWAI",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
